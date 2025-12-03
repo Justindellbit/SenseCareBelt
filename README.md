@@ -10,10 +10,10 @@ Le projet SenseCareBelt est une solution technologique conçue pour répondre à
 Au cœur du système, l’ESP32 analyse les mesures en temps réel, détecte les événements anormaux, et peut envoyer une alerte (via une application mobile couplee avec  unsysteme d'alarme) .
 
 ## Composition
--La ceinture est équipée de plusieurs capteurs essentiels :
--Un accéléromètre pour mesurer les variations brusques d'accélération ;
--Un gyroscope pour identifier les changements d’orientation du corps pour plus de robutesse ;
--Un module GPS pour localiser la personne au moment de la chute.
+- La ceinture est équipée de plusieurs capteurs essentiels :
+- Un accéléromètre pour mesurer les variations brusques d'accélération ;
+- Un gyroscope pour identifier les changements d’orientation du corps pour plus de robutesse ;
+- Un module GPS pour localiser la personne au moment de la chute.
 - un ESP32 qui fait office de contrôleur intelligent
 
 **Ce dispositif vise ainsi à offrir une solution proactive, capable non seulement de détecter une chute mais aussi de faciliter une intervention rapide et efficace**.
